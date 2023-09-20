@@ -8,7 +8,7 @@
   "main": "service.js",
   "scripts": {
     "start": "node service.js",
-    "dev": "nodemon server.js",
+    "dev": "nodemon service.js",
     "test": "jest"
   },
   "name": "myblogproject",
